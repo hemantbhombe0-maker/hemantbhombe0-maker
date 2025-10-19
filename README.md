@@ -7,11 +7,11 @@ I love building efficient solutions, exploring backend development, and continuo
 ---
 
 ## ⚡ About Me
-- 🎓 Currently exploring **Spring Boot**, **Microservices**, and **Cloud Architecture**  
+- 🎓 Currently exploring **Spring Boot**, **Microservices** 
 - 💡 Interested in **network solutions** and **system design**  
 - 🧠 Always learning and experimenting with new technologies  
 - 💬 Ask me about **Java**, **OOP**, **DSA**, or **APIs**  
-- 🎯 Goal: Become a full-stack cloud developer  
+- 🎯 Goal: Become a full-stack developer  
 - 🌐 Portfolio coming soon  
 
 ---
@@ -92,7 +92,7 @@ I love building efficient solutions, exploring backend development, and continuo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hemant%20Bhombe-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hemant-bhombe-51b061291    )
 [![GitHub](https://img.shields.io/badge/GitHub-hemantbhombe0--maker-black?style=for-the-badge&logo=github)](https://github.com/hemantbhombe0-maker)
-[![Gmail](https://img.shields.io/badge/Email-hemantbhombe@example.com-red?style=for-the-badge&logo=gmail)](mailto:hemantbhombe0@gmailcom)
+[![Gmail](https://img.shields.io/badge/Email-hemantbhombe@example.com-red?style=for-the-badge&logo=gmail)](mailto:hemantbhombe0@gmail.com)
 
 </div>
 
